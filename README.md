@@ -4,7 +4,7 @@
 
 ## Installing
 - This is a xdelta3 patch, as such you'll need to patch your game manually (`Assembly-CSharp.dll`).
-1. Download the Patch [Here]() and the [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest) for your System.
+1. Download the Patch [Here](https://github.com/Cracko298/BattleIslands-Cheat/raw/refs/heads/main/BattleIslands_MoneyPatch.xdelta) and the [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest) for your System.
 2. Extract the Delta Patcher, run the Patcher executable.
 3. Select the `*.xdelta` patch you downloaded, and apply it to your Unmodified `Assembly-CSharp.dll` file.
 4. That's about it, it should work perfectly fine now, and you'll never lose money in-game.
